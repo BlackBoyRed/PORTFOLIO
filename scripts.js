@@ -13,9 +13,7 @@ Hey there! I'm <b>SecDJ</b>, also known as <b>Dwij Chandnani😅</b>, your go-to
 With a solid foundation in cybersecurity principles and hands-on experience in ethical hacking, I’m driven to help organizations protect their online presence. I am continuously learning and honing my skills to stay ahead of the evolving cyber threat landscape.
 
 When I'm not studying or working on security projects, you’ll find me exploring the latest trends in digital forensics, network security, and cryptography, and playing some guitar too 🎸. As I progress in my career, I aim to contribute to a more secure and resilient digital ecosystem.
-My passion lies in delving deep into <b>identifying vulnerabilities and exploiting them like a pro! 💻</b>
-          
-I wholeheartedly support hands-on learning, because, let’s be honest, in the cyber world, theoretical knowledge is as useful as a chocolate teapot! 🍫☕️ My guiding belief is simple: <b>'Skills take precedence over knowledge!'</b> It’s all about consistently learning and troubleshooting to master hacking and carve out my path as a cybersecurity expert.</b> 💡           
+My passion lies in delving deep into <b>identifying vulnerabilities and exploiting them like a pro! 💻</b>     
          
 🌟 So let's keep it fun, keep it secure, and always remember: if it's smart, it's vulnerable!
           
